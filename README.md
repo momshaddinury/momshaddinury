@@ -30,12 +30,11 @@
 - VS Code 
 
 <br/>
-<img align="left" alt="dinurymomshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinurymomshad&show_icons=true&hide_border=false&count_private=trueinclude_all_commits =true" />
-
+<img align="left" alt="dinurymomshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinurymomshad&show_icons=true&hide_border=true&count_private=trueinclude_all_commits =true" />
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinurymomshad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinurymomshad&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
