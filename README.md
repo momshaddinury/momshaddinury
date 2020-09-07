@@ -30,7 +30,7 @@
 - VS Code
 
 <br />
-  <img align="left" alt="dinurymomshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinurymomshad&show_icons=true&hide_border=true" />
+<img align="left" alt="dinurymomshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinurymomshad&show_icons=true&hide_border=true" />
 <br />
 
 [website]: http://bit.ly/dinurymomshad
