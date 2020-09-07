@@ -1,7 +1,5 @@
 # Hi there, I'm Momshad Dinury - aka [Jinn][website] 👋
 
-<br/>
-
 ## I'm just Fluttering with Dart!
 
 - 🔭 I’m currently working on a [Harbor][Harbor]
@@ -10,7 +8,6 @@
 - 🥅 2020 Goals: Learn and Develop Flutter App
 - ⚡ Fun fact: I love cat :3
 
-<br/>
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Jinn's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -23,8 +20,6 @@
 [<img align="left" alt="dinurymomshad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<br />
-
 ### Languages and Tools:
 
 - [Flutter][Flutter]  
@@ -34,7 +29,7 @@
 - VS Code
 
 <br />
-  <img align="left" alt="dinurymomshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinurymomshad&show_icons=true&hide_border=true" />
+<img align="left" alt="dinurymomshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinurymomshad&show_icons=true&hide_border=true" />
 <br />
 
 [website]: http://bit.ly/dinurymomshad
