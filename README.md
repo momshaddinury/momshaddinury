@@ -30,7 +30,7 @@
 - VS Code 
 
 <br/>
-<a><img align="left" alt="dinurymomshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinurymomshad&show_icons=true&hide_border=true&count_private=true" />
+<a><img align="left" alt="dinurymomshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinurymomshad&show_icons=true&hide_border=false&count_private=true" />
 </a>
 
 <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinurymomshad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
