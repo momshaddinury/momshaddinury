@@ -2,7 +2,7 @@
 
 ## I'm just Fluttering with Dart!
 
-- 🔭 I’m currently working on a [Harbor][Harbor]
+- 🔭 I’m currently working on [Harbor][Harbor] app
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other flutter devs
 - 🥅 2020 Goals: Learn and Develop Flutter App
