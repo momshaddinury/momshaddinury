@@ -8,10 +8,10 @@
 - 🥅 2020 Goals: Learn and Develop Flutter App
 - ⚡ Fun fact: I love cat :3
 
-
+<!---
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Jinn's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+--->
 ### Connect with me:
 
 [<img align="left" alt="dinurymomshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,7 +20,7 @@
 [<img align="left" alt="dinurymomshad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
-
+<!---
 ### Languages and Tools:
 
 - [Flutter][Flutter]  
@@ -35,7 +35,7 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinurymomshad&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 
 
 [website]: http://bit.ly/dinurymomshad
