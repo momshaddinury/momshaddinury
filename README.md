@@ -2,10 +2,10 @@
 
 ## I'm just Fluttering with Dart!
 
-- 🔭 I’m currently working as a Freelancer
+- 🔭 I’m currently working as a Flutter Developer Intern at Unitalks Technologies
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other flutter devs
-- 🥅 2020 Goals: Learn and Develop Flutter App
+- 🥅 2021 Goals: Learn and Produce Production Quality Codes
 - ⚡ Fun fact: I love cat :3
 
 <!---
