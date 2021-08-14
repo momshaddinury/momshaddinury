@@ -2,7 +2,7 @@
 
 ## I'm just Fluttering with Dart!
 
-- 🔭 I’m currently working as a Flutter Developer Intern at Unitalks Technologies
+- 🔭 I’m currently working as a Software Engineer at Appifylab
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other flutter devs
 - 🥅 2021 Goals: Learn and Produce Production Quality Codes
