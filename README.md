@@ -2,7 +2,7 @@
 
 ## I'm just Fluttering with Dart!
 
-- 🔭 I’m currently working as a Software Engineer at Appifylab
+- 🔭 I’m currently working as a Associate Software Engineer at Brain Station 23
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other flutter devs
 - 🥅 2021 Goals: Learn and Produce Production Quality Codes
