@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Momshad Dinury here aka Jinn!</h1>
+<h1 align="center">Hi 👋 I'm Momshad Dinury</h1>
 <h3><p align = "center"><em>Associate Software Enginner at <a href="https://brainstation-23.com/?bs">Brain Station 23</a></br>
 Self Taught | Software Developer | Flutter | Dart | VS Code 
 </em></p></h3>
