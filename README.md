@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Momshad Dinury</h1>
-<h3><p align = "center"><em>Associate Software Enginner at <a href="https://brainstation-23.com/?bs">Brain Station 23</a></br>
+<h3><p align = "center"><em>Associate Software Enginner @ <a href="https://brainstation-23.com/?bs">Brain Station 23</a></br>
 Self Taught | Software Developer | Flutter | Dart | VS Code 
 </em></p></h3>
 <p align = "center">
