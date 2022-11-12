@@ -6,4 +6,4 @@ Self Taught | Flutter | Dart | iOS | Swift | Python
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=dinurymomshad&theme=dark&hide_border=true" width = 400>
 </p>
 
-<h3 align="center">to know more: google dinurymomshad</h3>
+<h3 align="center">to know more: google momshaddinury</h3>
