@@ -3,7 +3,7 @@
 Self Taught | Flutter | Dart | iOS | Swift | Python 
 </em></p></h3>
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=dinurymomshad&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=momshaddinury&theme=dark&hide_border=true" width = 400>
 </p>
 
 <h3 align="center">to know more: google momshaddinury</h3>
